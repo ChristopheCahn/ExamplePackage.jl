@@ -3,6 +3,10 @@ uuid = "5342f1ce-aafd-481e-8380-f4a354da0037"
 authors = ["Christophe Cahn (MacBookPro) <christophe.cahn@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Expectations = "2fe49d83-0758-5602-8f54-1f90ad0d522b"
+
 [compat]
 julia = "1"
 
